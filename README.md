@@ -7,7 +7,9 @@ This project was developed as part of the **Unified Mentor Internship Program**.
 
 ## 🏢 Brand Overview
 **Brand Name:** Vedam Ayurveda
+
 **Industry:** Premium Ayurvedic Skincare & Wellness
+
 **Hero Product:** Kumkumadi Radiance Face Elixir
 
 **Brand Positioning:**
@@ -34,7 +36,7 @@ Vedam Ayurveda is a premium Direct-to-Consumer (D2C) Ayurvedic skincare brand fo
   -----
   
   ## 🔍 Campaign Highlights
-  - Google Ads Search Campaign
+- Google Ads Search Campaign
 - Responsive Search Ads
 - Keyword Research
 - Negative Keyword Strategy
@@ -69,35 +71,54 @@ https://sites.google.com/view/vedamayurvedain/home
 
 ---
 
+## 📄 Project Report
+Click below to view the complete project report.
+
+[Google Ad Campaign (Imaginary) Report]
+
+----
+
 ## 📸 Project Screenshots
 
 ### Google Ads
 
-Campaign Settings
+[01 Bidding strategy]
 
-Audience Targeting
+[02 Location Targeting]
 
-Keywords
+[03 Audience Targeting]
 
-Negative Keywords
+[04 Campaign Schedule]
 
-Responsive Search Ad
+[05 Keyword Research]
 
-Ad Assets
+[006.Display Path]
 
-Budget & Bidding
+[007 Headline]
+
+[009Description]
+
+[0010 sitelinks]
+
+[0011 Callouts]
+
+[0012 Budget]
+
+[0015 Negative Keywords]
+
+[019 Campaign] 
 
 ### Landing Pages
 
-Home
+[1 Home Page]
 
-Our Ingredients
+[2 Our Ingredients]
 
-Take the Dosha Quiz
+[3 Take the Dosha Quiz']
 
-Shop Radiance Elixir
+[4 Shop Radiance Elixir]
 
-Our Happy Customers
+[5 Our Happy Customers]
 
 ----
 
@@ -113,5 +134,7 @@ Our Happy Customers
 
 ## 👩‍💻 Author
 **Varsha Prajapati**
+
 Unified Mentor Internship Project
+
 2026
