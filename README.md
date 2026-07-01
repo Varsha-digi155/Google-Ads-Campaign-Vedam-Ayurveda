@@ -82,6 +82,10 @@ Click below to view the complete project report.
 
 ### Google Ads
 
+### 01. Bidding Strategy
+
+![Bidding Strategy](01_Bidding_Strategy.jpg)
+
 [01 Bidding strategy]
 
 [02 Location Targeting]
