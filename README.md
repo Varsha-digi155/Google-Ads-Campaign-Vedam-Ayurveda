@@ -74,7 +74,7 @@ https://sites.google.com/view/vedamayurvedain/home
 ## 📄 Project Report
 Click below to view the complete project report.
 ### Google Ad Campaign (Imaginary) Report
-![Google Ad Campaign (Imaginary) Report](Google Ad Campaign (Imaginary) Report.pdf)
+![Google Ad Campaign (Imaginary) Report]Google Ad Campaign (Imaginary).pdf
 
 ----
 
@@ -82,61 +82,43 @@ Click below to view the complete project report.
 
 ### Google Ads
 
-### 01. Bidding Strategy
-![Bidding Strategy](01_Bidding_Strategy.jpg)
+ 01. Bidding Strategy
 
-### 02. Location Targeting
-![02 Location Targeting](02 Location Targeting.jpg)
+ 02. Location Targeting
 
-### 03. Audience Targeting
-![03 Audience Targeting](03 Audience Targeting.jpg)
+ 03. Audience Targeting
 
-### 04. Campaign Schedule
-![04 Campaign Schedule](04 Campaign Schedule.jpg)
+ 04. Campaign Schedule
 
-### 05. Keyword Research
-![05 Keyword Research](05 Keyword Research.jpg)
+ 05. Keyword Research
 
-### 06. Display Path
-![06 Display Path](006. Display Path.jpg)
+ 06. Display Path
 
-### 07. Headlines
-![07 Headlines](007 Headline .jpg)
+ 07. Headlines
 
-### 09. Description
-![09 Description](009Description .jpg)
+ 09. Description
 
-### 10. Sitelinks
-![10 Sitelinks](0010 sitelinks.jpg)
+ 10. Sitelinks
 
-### 11. Callouts
-![11 Callouts](0011 Callouts .jpg)
+ 11. Callouts
 
-### 12. Budget
-![12 Budget](0012 Budget.jpg)
+ 12. Budget
 
-### 15. Negative Keywords
-![0015 Negative Keywords](0015 Negative Keywords.jpg)
+ 15. Negative Keywords
 
-### 19. Campaign
-![019 Campaign](019 Campaign.jpg) 
+19. Campaign
 
 ### Landing Pages
 
-### 1. Home Page
-![1 Home Page](1 Home Page.jpg)
+1. Home Page
 
-### 2. Our Ingredients
-![2 Our Ingredients](2 Our Ingredients.jpg)
+2. Our Ingredients
 
-### 3.Take the Dosha Quiz
-![3 Take the Dosha Quiz'](3 Take the Dosha Quiz.jpg)
+3.Take the Dosha Quiz
 
-### 4. Shop Radiance Elixir
-![4 Shop Radiance Elixir](4 Shop Radiance Elixir.jpg)
-
-### 5. Our Happy Customers
-![5 Our Happy Customers](5 Our Happy Customers.jpg)
+ 4. Shop Radiance Elixir
+    
+ 5. Our Happy Customers
 
 ----
 
