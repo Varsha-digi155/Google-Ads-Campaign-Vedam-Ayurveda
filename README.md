@@ -71,12 +71,6 @@ https://sites.google.com/view/vedamayurvedain/home
 
 ---
 
-## 📄 Project Report
-Click below to view the complete project report.
-### Google Ad Campaign (Imaginary) Report
-![Google Ad Campaign (Imaginary) Report]file:///C:/Users/Hello/Downloads/Google%20Ad%20Campaign%20(Imaginary)%20Report.pdf
-----
-
 ## 📸 Project Screenshots
 
 ### Google Ads
